@@ -1,0 +1,37 @@
+{
+  "name": "zce-gulp-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "homepage": "https://github.com/zce/zce-gulp-demo.git",
+  "repository": "https://github.com/zce/zce-gulp-demo.git",
+  "author": "zhangfengjian <1213675330@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "serve": "gulp serve"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.4",
+    "browser-sync": "^2.27.7",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-all-tasks": "^1.1.4",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-data": "^1.3.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-if": "^3.0.0",
+    "gulp-imagemin": "^6.1.0",
+    "gulp-sass": "^5.0.0",
+    "gulp-sass-lint": "^1.4.0",
+    "gulp-swig": "^0.9.1",
+    "gulp-uglify": "^3.0.2",
+    "gulp-useref": "^5.0.0",
+    "sass": "^1.44.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
+  }
+}
