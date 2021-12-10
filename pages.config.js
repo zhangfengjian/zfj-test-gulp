@@ -1,4 +1,7 @@
 module.exports = {
+  build: {
+    temp: '.temp'
+  },
   data: {
     "menus": [
       {
